@@ -7,7 +7,7 @@ const Home = () => {
         <div className="home">
             <section className="hero">
                 <div className="hero-content">
-                    <h1>Welcome to Phegon Bank</h1>
+                    <h1>Welcome to Zar Finance</h1>
                     <p>Your secure and modern banking solution</p>
                     {!isAuthenticated && (
                         <div className="hero-buttons">
@@ -24,7 +24,7 @@ const Home = () => {
 
             <section className="features">
                 <div className="container">
-                    <h2>Why Choose Phegon Bank?</h2>
+                    <h2>Why Choose Zar Finance?</h2>
                     <div className="features-grid">
                         <div className="feature">
                             <div className="feature-icon">🔒</div>

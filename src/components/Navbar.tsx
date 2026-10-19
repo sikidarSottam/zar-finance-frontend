@@ -28,7 +28,7 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="navbar-container">
                 <Link to="/" className="navbar-logo">
-                    Phegon Bank
+                    Zar Finance
                 </Link>
                 <ul className="navbar-menu">
                     <li className="navbar-item">
